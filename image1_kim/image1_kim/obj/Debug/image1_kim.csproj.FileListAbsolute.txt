@@ -1,0 +1,10 @@
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.csprojAssemblyReference.cache
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.Form1.resources
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.Properties.Resources.resources
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.csproj.GenerateResource.cache
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.csproj.CoreCompileInputs.cache
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\bin\Debug\image1_kim.exe.config
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\bin\Debug\image1_kim.exe
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\bin\Debug\image1_kim.pdb
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.exe
+C:\Users\COMIT\Desktop\image1_kim\image1_kim\obj\Debug\image1_kim.pdb
